@@ -56,6 +56,6 @@
 ## ❤️ 鸣谢
 
 * Riot Games 提供的开放 API
-* [CounterStats](https://www.counterstats.net/) 数据支持
+* CounterStats 数据支持
 * 所有为本项目贡献的开发者与用户
 
