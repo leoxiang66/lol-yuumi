@@ -60,3 +60,29 @@
 * CounterStats 数据支持
 * 所有为本项目贡献的开发者与用户
 
+## 助手截图:
+
+1. 玩家信息
+
+![8b89d40a3ad8c6cd0a16d4c84195e2f1](https://github.com/user-attachments/assets/32638dcc-55cd-4802-9184-16aee3a3ef2b)
+
+2. 选人阶段查看队友战绩
+
+![b952476d7b2e06b83f38f0c525037a0c](https://github.com/user-attachments/assets/35d614b5-82f2-4c7a-9cd2-e80f7ac8ca9d)
+
+3. 选人阶段查看敌方英雄的counter
+![f6193a2cedd6fb6f38ff6557f59a89ec](https://github.com/user-attachments/assets/24a40e9b-bce7-45e2-99d4-ee3177873bf6)
+
+![69e99b309e0f2c4cd13afb1e9d126b21](https://github.com/user-attachments/assets/a99d854b-e6b9-4fc9-b6a9-b460225503e0)
+
+4. 进游戏后查看敌方战绩
+
+![6eaa4b6308a2144b6e89e75be3d37f6d](https://github.com/user-attachments/assets/d3987c2d-019e-44dd-9c91-5a448d30325e)
+
+
+
+
+
+
+
+
